@@ -14,10 +14,7 @@ transition: fade-out
 mdc: true
 layout: cover
 
-fonts:
-  sans: '"PingFang SC", "Microsoft YaHei", "WenQuanYi Zen Hei", "宋体"'
-  serif: '"Songti SC", "SimSun", "Consolas"'
-  mono: '"Consolas", "Courier New", "Menlo"'
+
 coverBackgroundUrl: /cover.jpg
 ---
 

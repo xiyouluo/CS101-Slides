@@ -479,13 +479,13 @@ $$
 
 ## 终端 (Terminal) 与命令行 (Command Line)
 
-- **终端 (Terminal)**  
+- 终端 (Terminal)
   - 早期是接在大型计算机上的键盘+显示器硬件设备  
   - 现在是电脑上的一个软件窗口，用来输入命令、显示结果  
   - 例子: Windows 的 PowerShell / CMD，macOS 的 Terminal 应用
 
-- **命令行 (Command Line / CLI)**  
-  - 一种**基于文本的交互方式**, 通过输入命令与计算机通信  
+- 命令行 (Command Line / CLI)
+  - 一种基于文本的交互方式, 通过输入命令与计算机通信  
   - 相比图形界面 (GUI), 命令行更高效、可自动化、适合远程操作
 
 ---
@@ -494,10 +494,10 @@ $$
 
 ## Shell 是什么?
 
-- **Shell** 是操作系统提供的命令行界面 (CLI), 让用户与**内核**交互.
+- Shell 是操作系统提供的命令行界面 (CLI), 让用户与**内核**交互.
 - 常见的 Shell:  
-  - **bash** (大多数 Linux 默认)  
-  - **zsh** (macOS 默认，从 Catalina 起)  
+  - bash (大多数 Linux 默认)  
+  - zsh (macOS 默认，从 Catalina 起)  
 
 ---
 
@@ -524,7 +524,7 @@ rm -r folder    # 删除文件夹 (递归)
 
 ## Linux 
 
-- **Linux** 是一种操作系统内核, 广泛用于服务器与科研计算环境.
+- Linux 是一种操作系统内核, 广泛用于服务器与科研计算环境.
 - 常见发行版:
   - Ubuntu (入门友好)
   - CentOS (服务器常用)
@@ -536,9 +536,9 @@ rm -r folder    # 删除文件夹 (递归)
 
 ## Server 
 
-- **服务器 (Server)**: 一台 7x24 小时运行的计算机, 可以提供远程计算/存储/服务.
+- 服务器 (Server): 一台 7x24 小时运行的计算机, 可以提供远程计算/存储/服务.
 
-- 我们通常使用 **SSH (Secure Shell)** 远程登录:
+- 我们通常使用 SSH (Secure Shell) 远程登录:
 
   ```bash
   ssh username@server_address

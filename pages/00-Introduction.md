@@ -25,7 +25,7 @@ layout: cover
 coverBackgroundUrl: /00-Introduction/cover.jpg
 ---
 
-# 欢迎来到 ICS 课程 {.font-bold}
+# 欢迎来到 CS101 课程 {.font-bold}
 
 2110306206 预防医学&信双 卓致用
 
@@ -51,7 +51,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 Developer / Designer / Medical student
 
-一边被 ~~病理病生理药理~~ 内外妇儿折磨，一边在 ~~ICS 的 Lab 作业~~ PyTorch 中 debug 到头秃的医学生
+test一边被 ~~病理病生理药理~~ 内外妇儿折磨，一边在 ~~ICS 的 Lab 作业~~ PyTorch 中 debug 到头秃的医学生
 
 
 <div class="my-10 grid grid-cols-[40px_1fr] w-min gap-y-4 items-center">

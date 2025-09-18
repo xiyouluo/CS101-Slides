@@ -24,37 +24,17 @@ mdc: true
 layout: cover
 ---
 
-# Arthals ICS Slide {.font-bold.text-sky}
+# CS101 Slide {.font-bold.text-sky}
 
-2110306206 预防医学&信双 卓致用{.!text-gray-500}
+物理学&计算机科学与技术双 罗熙佑{.!text-gray-500}
 
-由我制作的一些 ICS 课程 Slide，基于 [Slidev](https://sli.dev/)
+一个试图帮助大家解决初识编程时遇到的诸多问题的 Slides，基于 [Slidev](https://sli.dev/)
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/zhuozhiyongde/Arthals-ICS-Slides" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-gray-800 !dark:hover:text-gray-200">
     <carbon-logo-github />
   </a>
-</div>
-
----
-
-# 关于我
-
-Developer / Designer / Medical student
-
-一边被 ~~病理病生理药理~~ 内外妇儿折磨，一边在 ~~ICS 的 Lab 作业~~ PyTorch 中 debug 到头秃的医学生
-
-
-<div class="my-10 grid grid-cols-[40px_1fr] w-min gap-y-4 items-center">
-  <ri-github-line class="opacity-50"/>
-  <div><a href="https://github.com/zhuozhiyongde" target="_blank">Arthals</a></div>
-  <ri:blogger-line class="opacity-50"/>
-  <div><a href="https://arthals.ink" target="_blank">arthals.ink</a></div>
-  <ri:mail-line class="opacity-50"/>
-  <div><a href="mailto:zhuozhiyongde@126.com">zhuozhiyongde@126.com</a></div>
-  <ri:wechat-2-line class="opacity-50"/>
-  <div>zhuozhiyongde</div>
 </div>
 
 ---

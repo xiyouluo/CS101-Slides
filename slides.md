@@ -1,7 +1,7 @@
 ---
 theme: academic
+title: CS101-Slides
 highlighter: shiki
-title: CS101 Slides
 info: |
   CS101 2025 Fall Slides
   Presented by xiyouluo
@@ -13,9 +13,17 @@ drawings:
 transition: fade-out
 mdc: true
 layout: cover
+
+fonts:
+  sans: '"PingFang SC", "Microsoft YaHei", "WenQuanYi Zen Hei", "宋体"'
+  serif: '"Songti SC", "SimSun", "Consolas"'
+  mono: '"Consolas", "Courier New", "Menlo"'
+coverBackgroundUrl: /cover.jpg
 ---
 
-# CS101 Slides {.font-bold.text-sky}
+
+
+# CS101-Slides {.font-bold.text-sky}
 
 物理学&计算机科学与技术双 罗熙佑{.!text-gray-500}
 
@@ -126,7 +134,7 @@ layout: cover
 0. 性能 vs. 价格
 1. 你的需求 (我只爱学习! 我要打游戏! ~~我要在本地部署大模型!~~)
 2. Windows vs. macOS
-3. 某些专业需要 **macOS 不兼容** 的软件!
+3. 某些专业需要 **macOS 不兼容**的软件!
 
 ---
 
@@ -135,7 +143,7 @@ layout: cover
 ## 这是啥<del>, 好吃吗</del>?
 
 - The Great Firewall
-- VPN
+- VPN (Virtual Private Network)
 
 ---
 
@@ -143,15 +151,15 @@ layout: cover
 
 ## 这是啥<del>, 好吃吗</del>?
 
-- 代理工具
-- 配置文件与订阅地址
+- 代理工具 + 配置文件 = 科学上网
+- 订阅地址获取配置文件
 - [Clash 生态](https://github.com/xiyouluo/CS101-Slides/blob/main/supplement/Clash_Status.md)
 
 ---
 
 # 2. "科学上网" {.text-sky .font-bold}
 
-## 怎么<del>吃</del>用?
+## 怎么用?
 
 0. 推荐 Clash Party, 即使你使用 [WallessPKU](https://wallesspku.space/).
 1. 授人以渔: ~~暂时不能给你明确的答复, 这个需要你自己衡量.~~ 类似问题请**善用搜索**, 尤其是查看[官方文档](clashparty.org)!  (https://clashparty.org)
@@ -190,9 +198,9 @@ layout: cover
 
 ## 授人以鱼
 
-- **TUN 模式**会在系统中创建一个虚拟网卡, 将所有 IP 层的流量都引导到代理程序.
+- TUN 模式会在系统中创建一个虚拟网卡, 将所有 IP 层的流量都引导到代理程序.
 
-- 相比 **HTTP/SOCKS 代理** 只能对单个应用（如浏览器）生效, TUN 可以让 **整个系统**的流量（包括不支持代理的应用、游戏客户端、命令行工具等）都通过代理.
+- 相比 HTTP/SOCKS 代理只能对单个应用 (如浏览器) 生效, TUN 可以让 **整个系统**的流量 (包括不支持代理的应用、游戏客户端、命令行工具等) 都通过代理.
 
 - 更适合北大宝宝体质的覆写配置: 
 
@@ -206,7 +214,7 @@ layout: cover
 
 - Python 解释器
 - IDE
-- 第三方库 (Git; numpy, matplotlib, pytorch)
+- 第三方库 (Git; numpy, matplotlib, pytorch): 本课程不需要 numpy 等 Python 第三方库, 你机考也无法使用.
 
 ---
 
@@ -255,7 +263,7 @@ layout: cover
 ## <del>听不懂, 你就说我该干嘛</del>IDE 的选择
 
 - 平时的学习中, 你可以使用任何你喜欢的编程环境.
-- 就本课程期末机考而言, 个人**推荐**使用 Pycharm.
+- 就本课程期末机考而言, **个人推荐**使用 Pycharm.
   - VS Code 需要插件才能成为 IDE (才能帮你运行和调试); 考试时机房断网 + 你不知道上一个使用这台机子的同学对它做了什么. ![](https://raw.githubusercontent.com/xiyouluo/md_images/main/images/202509181308861.png)
   - Spyder 无法粘贴多行输入.
 
@@ -320,7 +328,7 @@ layout: cover
 - 怎么选择:
   - Typora: 容易上手, 实时渲染, 所见即所得; 收费.
   - Obsidian: 有一定学习成本, 但功能更强大, 接近实时渲染 (但你仍然可能需要切换编辑与阅读模式); 免费.
-  - VS Code + 插件: 写代码, 渲染在另一边; 免费.
+  - VS Code + 插件: 写"代码", 渲染在另一边; 免费.
 
 ---
 

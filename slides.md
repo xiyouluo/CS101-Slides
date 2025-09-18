@@ -19,6 +19,10 @@ layout: cover
 
 物理学&计算机科学与技术双 罗熙佑{.!text-gray-500}
 
+github 链接
+
+感谢卓致用和杨涛瑜
+
 一个试图帮助大家解决初识编程时遇到的诸多问题的 Slides，基于 [Slidev](https://sli.dev/)
 
 <div class="abs-br m-6 flex gap-2">
@@ -116,7 +120,7 @@ layout: cover
 ## 这是啥<del>, 好吃吗</del>?
 
 - 代理工具
-- Clash 生态
+- [Clash 生态](https://github.com/xiyouluo/CS101-Slides/blob/main/supplement/Clash_Status.md)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 theme: academic
 highlighter: shiki
-title: CS101 Slide
+title: CS101 Slides
 info: |
   CS101 2025 Fall Slides
   Presented by xiyouluo

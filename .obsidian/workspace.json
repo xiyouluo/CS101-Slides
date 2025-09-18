@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13b42b36352552a0",
+        "id": "b46e746f0c7b8478",
         "type": "tabs",
         "children": [
           {
-            "id": "29d0180faeef6c49",
+            "id": "c40e65a896190f6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slides.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "slides.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29d0180faeef6c49",
+  "active": "c40e65a896190f6c",
   "lastOpenFiles": [
+    "slides.md",
     "supplement/Clash_Status.md",
     "supplement",
     "untitled folder",

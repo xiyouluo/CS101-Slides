@@ -1,25 +1,16 @@
 ---
-# You can also start simply with 'default'
 theme: academic
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-# background: https://cover.sli.dev
 highlighter: shiki
-# some information about your slides (markdown enabled)
 title: Arthals ICS Slide
 info: |
   ICS 2024 Fall Slides
   Presented by Arthals
 presenter: false
 titleTemplate: '%s'
-# apply unocss classes to the current slide
 class: text-center
-# https://sli.dev/features/drawing
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: fade-out
-# enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 layout: cover
 ---
@@ -41,54 +32,149 @@ layout: cover
 
 # 目录
 
-TOC
+0. 从零开始的计算机生活
+2. 电脑的硬件与使用常识, 电脑选购  
+3. "科学上网"  
+4. 环境配置  
+5. 作业提交, Markdown, $\LaTeX$  
+6. 如何学习计概?  
 
-<div grid="~ cols-2 gap-12">
+7. Git, Github  
+8. Shell, Server, Linux  
 
-<div>
+---
 
-0. [课程介绍](https://slide.huh.moe/00/)
-1. [数据表示](https://slide.huh.moe/01/)
-2. [程序的机器表示 I](https://slide.huh.moe/02/)
-3. [程序的机器表示 II](https://slide.huh.moe/03/)
-4. [程序的机器表示 III & ISA](https://slide.huh.moe/04/)
-5. [处理器架构：顺序与流水线](https://slide.huh.moe/05/)
-6. [存储器层次结构、缓存](https://slide.huh.moe/06/)
+# 0. 从零开始的计算机生活 {.text-sky .font-bold}
 
-</div>
+- 问卷统计结果
 
-<div>
+---
 
-7. [链接](https://slide.huh.moe/07/)
-8. [异常控制流](https://slide.huh.moe/08/)
-9. [虚拟内存](https://slide.huh.moe/09/)
-10. [系统级 IO](https://slide.huh.moe/10/)
-11. [网络编程](https://slide.huh.moe/11/)
-12. [并发编程](https://slide.huh.moe/12/)
+# 0. 从零开始的计算机生活 {.text-sky .font-bold}
 
-</div>
+- 零基础?  你来对了.
+- 准备时间仓促, 水平有限, 任何错误与不准确欢迎大家现场举手打断指正!
 
-</div>
+---
+
+# 1. 电脑的硬件与使用常识, 电脑选购 {.text-sky .font-bold}
+
+## 硬件
+
+- 装机八大件: 
+
+  **CPU**
+
+  **GPU / 显卡**
+
+  **内存**
+
+  **硬盘**
+
+  主板
+
+  电源
+
+  散热
+
+  机箱  
+
+---
+
+# 1. 电脑的硬件与使用常识, 电脑选购 {.text-sky .font-bold}
+
+## 使用
+
+0. 善用搜索 (搜索引擎与大语言模型 LLM)
+1. (Windows 系统) C 盘: 你不要过来啊
+2. 杀 ~~(liu)~~ 毒 ~~(mang)~~ 软件?
+
+---
+
+# 1. 电脑的硬件与使用常识, 电脑选购 {.text-sky .font-bold}
+
+## 电脑选购
+
+0. 性能 vs. 价格
+1. 你的需求 (我只爱学习! 我要打游戏! ~~我要在本地部署大模型!~~)
+2. Windows vs. macOS
+3. 某些专业需要 **macOS 不兼容** 的软件!
+
+---
+
+# 2. "科学上网" {.text-sky .font-bold}
+
+## 这是啥<del>, 好吃吗</del>?
+
+- The Great Firewall
+- VPN
+
+---
+
+# 2. "科学上网" {.text-sky .font-bold}
+
+## 这是啥<del>, 好吃吗</del>?
+
+- 代理工具
+- Clash 生态
+
+---
+
+# 2. "科学上网" {.text-sky .font-bold}
+
+## 怎么<del>吃</del>用?
+
 
 
 ---
-layout: center
+
+# 3. 环境配置 {.text-sky .font-bold}
+
+- Python / VSCode / Git 安装  
+- 配置开发环境  
+- 调试与测试方法
+
 ---
 
+# 5. 作业提交, Markdown, $\LaTeX$ {.text-sky .font-bold}
 
-<div flex="~ gap-16"  mt-2 justify-center items-center>
+- Markdown 基础语法  
+- $\LaTeX$ 简单公式  
+- 提交作业流程  
+- 注意事项
 
+---
 
-<div  w-fit h-fit mb-2>
+# 6. 如何学习计概? {.text-sky .font-bold}
 
-# THANKS
+- 规划学习时间  
+- 理论与实践结合  
+- 多看多练，主动思考  
+- 使用课程资源（书籍、Slide、视频）
 
-Made by Arthals with ❤️ ~~and hair~~ {.mb-4}
+---
+
+# 7. Git, Github {.text-sky .font-bold}
+
+- Git 基础操作：clone, add, commit, push  
+- GitHub 仓库管理  
+- 协作流程与 Pull Request
+
+---
+
+# 8. Shell, Server, Linux {.text-sky .font-bold}
+
+- 常用命令行操作  
+- Linux 基础  
+- 服务器远程访问与管理  
+- 文件和权限管理
+
+---
+
+# THANKS {.text-sky .font-bold}
+
+Made by Arthals with ❤️ ~~and hair~~ {.mb-4}  
 
 [Blog](https://arthals.ink/) · [GitHub](https://github.com/zhuozhiyongde) · [Bilibili](https://space.bilibili.com/203396427)
 
-</div>
-
-![wechat](/wechat.jpg){.w-40.rounded-md}
-
-</div>
+<img src="/wechat.jpg" class="w-40 rounded-md"/>

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f86a10d72fb0a6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b42b36352552a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29d0180faeef6c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88eedf999144f770",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9bd276cff1d6c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8171aa55fb37534",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8105c5acacbf9fc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3eff6c66f4d4ba7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1904b9a48ae4875",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ccd4da53e577e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431501d8d8f05d23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "slides.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33ceb3372496cfb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "slides.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c5481b2622feef5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74174a4415bafb50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "slides.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29d0180faeef6c49",
+  "lastOpenFiles": [
+    "supplement/Clash_Status.md",
+    "supplement",
+    "untitled folder",
+    "Clash_Status.md"
+  ]
+}

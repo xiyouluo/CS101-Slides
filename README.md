@@ -2,7 +2,7 @@
 
 我的 2025 年秋季学期计算概论上机授课 Slides。
 
-基于 [Slidev](https://sli.dev/) 构建，并使用 [Github Pages](https://pages.cloudflare.com/) 部署。
+基于 [Slidev](https://sli.dev/) 构建，并使用 [Github Pages](https://pages.github.com/) 部署。
 
 ## 使用
 

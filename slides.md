@@ -29,8 +29,8 @@ coverBackgroundUrl: /cover.jpg
 <span style="color: cyan;">感谢[卓致用](https://github.com/zhuozhiyongde)学长的 [ICS-Slides](https://github.com/zhuozhiyongde/Arthals-ICS-Slides) 模版</span>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/zhuozhiyongde/Arthals-ICS-Slides" target="_blank" alt="GitHub" title="Open in GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-gray-800 !dark:hover:text-gray-200">
+  <a href="https://github.com/xiyouluo/CS101-Slides" target="_blank" alt="GitHub" title="Open in GitHub"
+    class="text-xl slidev-icon-btn pacity-50 text-white !hover:text-gray-400 !dark:hover:text-gray-400">
     <carbon-logo-github />
   </a>
 </div>
@@ -39,15 +39,14 @@ coverBackgroundUrl: /cover.jpg
 
 # 目录
 
-0. 从零开始的计算机生活
-1. 电脑的硬件与使用常识, 电脑选购  
-2. "科学上网"  
-3. 环境配置  
-4. 作业提交, Markdown
-5. Git, Github  
-6. Terminal, Shell, Linux, Server
-
-7. 如何学习计概&答疑
+0. [从零开始的计算机生活](/3)
+1. [电脑的硬件与使用常识, 电脑选购](/8)
+2. ["科学上网"](/11)
+3. [环境配置](/17)
+4. [作业提交, Markdown](/25)
+5. [Git, Github](/34)
+6. [Terminal, Shell, Linux, Server](/37)
+7. [如何学习计概&答疑](/42)
 
 ---
 

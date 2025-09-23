@@ -298,9 +298,14 @@ coverBackgroundUrl: /cover.jpg
 ## IDE 的安装 - 授人以鱼 {.text-emerald}
 
 - Pycharm 目前已不区分社区版 / 专业版, 直接在[官网下载](https://www.jetbrains.com/pycharm/)统一版本: https://www.jetbrains.com/pycharm/
+
 - 使用 edu 邮箱**凭借北京大学学生身份**可申请 [student-pack](https://www.jetbrains.com/academy/student-pack/): https://www.jetbrains.com/academy/student-pack/
+
 - 安装过程与使用演示.
-- <span style="background-color: yellow; color: black;">注: 上机课时不小心遗漏了运行与 Debug 的演示, 请有需要的同学"善用搜索"解决或者联系我 (联系方式在尾页); 另外目前机房的 Pycharm 不能使用 Debug 功能的问题已请闫老师向计算中心反映.</span>
+
+- <span style="background-color: yellow; color: black;">注: 上机课时不小心遗漏了安装与 Debug 的演示, 请有需要的同学"善用搜索"解决或者联系我 (见尾页); 另外目前机房的 Pycharm 不能使用 Debug 功能的问题已请闫老师向计算中心反映. 2025/9/23 update:</span>
+
+  <img src="https://raw.githubusercontent.com/xiyouluo/md_images/main/images/202509231726976.png" style="zoom:20%;" />
 
 ---
 

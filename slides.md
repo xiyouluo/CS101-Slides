@@ -14,6 +14,10 @@ transition: fade-out
 mdc: true
 layout: cover
 
+fonts:
+  sans: '"", "华文中宋", "宋体"'
+  serif: '"Consolas", "华文中宋", "宋体"'
+  mono: '"Consolas", "华文中宋", "宋体"'
 
 coverBackgroundUrl: /cover.jpg
 ---
@@ -26,7 +30,7 @@ coverBackgroundUrl: /cover.jpg
 
 <span style="color: cyan;">一个试图帮助大家解决初识编程时遇到的诸多问题的 Slides，基于 [Slidev](https://sli.dev/)</span>
 
-<span style="color: cyan;">感谢[卓致用](https://github.com/zhuozhiyongde)学长的 [ICS-Slides](https://github.com/zhuozhiyongde/Arthals-ICS-Slides) 模版</span>
+<span style="color: cyan;">感谢 [Arthals](https://github.com/zhuozhiyongde) 学长的 [Arthals-ICS-Slides](https://github.com/zhuozhiyongde/Arthals-ICS-Slides) 模版</span>
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/xiyouluo/CS101-Slides" target="_blank" alt="GitHub" title="Open in GitHub"
